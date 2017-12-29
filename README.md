@@ -1,2 +1,3 @@
-# reactjs-portfolio
-ReactJS portfolio
+# A portfolio created with ReactJS and AWS
+
+Simple and useable
