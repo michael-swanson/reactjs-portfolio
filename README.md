@@ -3,6 +3,4 @@
 Simple and useable
 
 ## Info
-Chocolatey
-Git
-SSH
+Chocolatey, Git & SSH
